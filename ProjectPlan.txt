@@ -1,4 +1,5 @@
 1.) Ability to add excercise cards
+	Grid type excercise card with filters in grid header as shown here https://demos.creative-tim.com/material-dashboard-react/#/admin/dashboard 
 2.) Ability to filter excercise cards based on the left navigation menu
 3.) Ability to signin using Facebook\Google
 4.) Ability to subscribe to daily notifications
