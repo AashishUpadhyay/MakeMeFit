@@ -1,0 +1,4 @@
+1.) Ability to add excercise cards
+2.) Ability to filter excercise cards based on the left navigation menu
+3.) Ability to signin using Facebook\Google
+4.) Ability to subscribe to daily notifications
